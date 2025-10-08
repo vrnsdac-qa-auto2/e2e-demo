@@ -43,7 +43,7 @@ pytest
 
 ## Project Structure
 - `app/` - API implementation
-- `tests/` - Test suite
-- `utils/` - Utility modules
+- `tests/` - Test suite - need to implement
+- `utils/` - Utility modules - need to implement
 
 
